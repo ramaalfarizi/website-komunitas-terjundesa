@@ -1,0 +1,5 @@
+user : terjundesa
+email : terjundesa@gmail.com
+psswd : terjundesa
+
+db : td-lmg
